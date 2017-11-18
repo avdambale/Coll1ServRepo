@@ -7,7 +7,7 @@ public class Class10 {
 System.out.println("bye");
 		System.out.println("bye 123");
 		System.out.println("bye 123");
-		
+		System.out.println("bye 123");
 	}
 
 }
