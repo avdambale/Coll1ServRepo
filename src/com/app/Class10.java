@@ -8,6 +8,8 @@ System.out.println("bye");
 		System.out.println("bye 123");
 		System.out.println("bye 123");
 		System.out.println("bye");
+		System.out.println("bye6");
+		System.out.println("bye7");
 
 		
 	}
